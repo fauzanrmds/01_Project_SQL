@@ -107,6 +107,9 @@ ORDER BY
 LIMIT 10
 ```
 
+![By Skill Category](assets/top_paying_data_analyst_jobs.png)
+*This chart shows an analysis of the top paying data analyst jobs. The highest salaries range from about $184K to $255K, with companies like AT&T, Pinterest, and Uclahealthcare among the leaders. The most in-demand skills in these top jobs are SQL, Python, and Tableau, while others like Excel, Pandas, Snowflake, and Confluence also appear. On average, skills such as Excel, Pandas, and R are linked with salaries around $215K, while Confluence and Snowflake have lower averages. The salary distribution highlights that most top jobs cluster around $190K–$210K, with the mean salary at $207K and the median at $197K.*
+
 4. **Top-Paying Jobs**  
    - Isolated the **10 best-paying Data Analyst jobs**  
    - Focused on **remote roles with salaries listed**  
@@ -132,6 +135,9 @@ ORDER BY
 LIMIT 10
 ```
 
+![By Skill Category](assets/highest_paying_data_analyst_jobs.png)
+*This chart highlights the top 10 highest-paying data analyst jobs. The company Mantys leads with a salary of $650K, followed by Meta at $336K, and AT&T at $255K. Most other companies, like Pinterest, Uclahealthcare, and SmartAsset, offer salaries between $184K–$232K. The salary distribution shows that while most jobs fall between $180K–$250K, a couple of outliers (Mantys and Meta) push the mean salary higher to $264K, compared to a median of $211K. All top-paying roles are full-time positions, with an average salary of $264K across these jobs.*
+
 5. **Top Skills by Salary**  
    - Calculated the average salary associated with each skill  
    - Highlighted the **5 skills most correlated with higher salaries**  
@@ -154,7 +160,8 @@ ORDER BY
     avg_salary DESC
 LIMIT 5
 ```
-
+![By Skill Category](assets/top_skills_based_on_salary.png)
+*This chart analyzes the top skills for data analyst roles based on salary. The highest-paying skill is SVN, with an average salary of $400K, far above all others. Other high-paying skills include Solidity ($179K), Couchbase ($160K), Datarobot ($155K), and Golang ($155K), all exceeding the overall average of $144K. Most skills, however, cluster in the $115K–$160K range, while only a few stand out in much higher brackets. The salary distribution confirms that most skills fall in lower ranges, with just one outlier at the very top (SVN). This suggests that while rare, some niche technical skills can command exceptionally high salaries, even if demand for them is limited.*
 # 🎯 What I Learned
 - 🏆 **SQL, Python, and Tableau** are consistently the most in-demand skills  
 - 💰 Specialized/niche skills can **boost salaries**, even if demand is lower  
