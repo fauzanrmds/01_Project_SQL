@@ -43,6 +43,10 @@ ORDER BY
     demand_count DESC
 LIMIT 25;
 ```
+![By Skill Category](assets\by_skills_category.png)
+![Optimal Skills to Learn](assets\salary_vs_demand.png)
+*The data analyst job market shows a clear career strategy: start with high-demand foundation skills like SQL, Python, and Excel to get your foot in the door, then strategically add cloud platforms like AWS, Azure, or Snowflake for salary boosts. While niche skills like Go or Hadoop pay the most, they have very limited job opportunities, so the smartest approach combines Python, Tableau, and a cloud platform for the best balance of demand and pay. The market reality is straightforward - core data skills drive most job opportunities, cloud platforms offer the sweet spot of good salary and decent demand, and visualization tools are becoming essential, perfectly illustrating the classic trade-off between specialization and market accessibility in the data field.*
+
 2. **Most In-Demand Skills**  
    - Found the **top 5 most requested skills** for Data Analysts  
    - Based on total demand across all postings  
@@ -65,6 +69,8 @@ ORDER BY
     demand_count DESC
 LIMIT 5
 ```
+![Most In-Demand Data Analyst Skills](assets\most_in_demand_data_analyst_skills.png)
+*The chart shows the top 5 most in-demand skills for data analysts. SQL is the most required skill, appearing in 7,291 job postings and making up about 32.3% of the demand. Excel follows with 4,611 postings (20.4%), then Python with 4,330 (19.2%), Tableau with 3,745 (16.6%), and Power BI with 2,609 (11.6%). Overall, SQL clearly leads the market, while Excel and Python are also highly valued. Tableau and Power BI are important but in lower demand compared to the others.*
 
 3. **Skills Required for Top-Paying Jobs**  
    - Looked at the **top 10 highest-paying Data Analyst roles**  
